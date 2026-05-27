@@ -9,3 +9,4 @@
 ## Description
 
 The uploaded HTML file is just a test project used to write information about me.
+Run it only after installing the Requirements 
